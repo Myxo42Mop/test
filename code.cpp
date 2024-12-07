@@ -22,7 +22,7 @@ int main() {
 			frac4++;
 		}
 	}
-	cout << "Ответ: " << max(max(max(frac1, frac2), frac3), frac4) << endl; //Выводим ответ
+	cout << "Ответ, высокопочтенный: " << max(max(max(frac1, frac2), frac3), frac4) << endl; //Выводим ответ
 	return 0;
 
 }
